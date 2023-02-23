@@ -7,3 +7,6 @@ resources:
   - ../../repos
 
 namespace: argocd
+
+commonLabels:
+    app.kubernetes.io/instance: argocd
