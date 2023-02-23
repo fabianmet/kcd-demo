@@ -2,7 +2,7 @@ apiVersion: v1
 data:
   project: ZGVmYXVsdA==
   type: Z2l0
-  url: aHR0cHM6Ly9naXRodWIuY29tL2ZhYmlhbm1ldC9lZGdlY2FzZS15ZWV0LmdpdA==
+  url: aHR0cHM6Ly9naXRodWIuY29tL2ZhYmlhbm1ldC9rY2QtZGVtby5naXQ=
 kind: Secret
 metadata:
   annotations:
