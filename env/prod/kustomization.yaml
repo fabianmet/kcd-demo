@@ -6,8 +6,3 @@ resources:
   - ../../common
   - ../../repos
   - ../../apps
-
-namespace: argocd
-
-commonLabels:
-    app.kubernetes.io/instance: argocd
