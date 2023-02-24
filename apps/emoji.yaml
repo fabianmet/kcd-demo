@@ -11,7 +11,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: emoji
+    path: argocd/emoji
     repoURL: https://github.com/fabianmet/cooking-with-edge.git
     targetRevision: main
   syncPolicy:

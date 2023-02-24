@@ -11,7 +11,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: web
+    path: argocd/web
     repoURL: https://github.com/fabianmet/cooking-with-edge.git
     targetRevision: main
   syncPolicy:
