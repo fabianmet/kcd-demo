@@ -1,0 +1,14 @@
+apiVersion: v1
+data:
+  project: ZGVmYXVsdA==
+  type: Z2l0
+  url: aHR0cHM6Ly9naXRodWIuY29tL2ZhYmlhbm1ldC9jb29raW5nLXdpdGgtZWRnZS5naXQ=
+kind: Secret
+metadata:
+  annotations:
+    managed-by: argocd.argoproj.io
+  labels:
+    argocd.argoproj.io/secret-type: repository
+  name: emojivoto
+  namespace: argocd
+type: Opaque
